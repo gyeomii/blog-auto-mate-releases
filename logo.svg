@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">BlogAutoMate 로고</title>
+  <path fill="#0B5750" d="M76 32H180a44 44 0 0 1 44 44V180a44 44 0 0 1-44 44H76a44 44 0 0 1-44-44V76a44 44 0 0 1 44-44Z"/>
+  <path fill="#0F766E" d="M80 42H176a30 30 0 0 1 30 30V162a30 30 0 0 1-30 30H80a30 30 0 0 1-30-30V72a30 30 0 0 1 30-30Z"/>
+  <path fill="#FBFAF6" d="M100 62L100 157.2L122.4 134.8L144.8 173.6L158.14 165.89L136.96 129.2L167.2 129.2Z"/>
+</svg>
